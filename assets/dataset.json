@@ -7,6 +7,13 @@
   "star": 5,
   "repos": [
     {
+      "name": "gitignore",
+      "desc": "collection of useful .gitignore templates",
+      "repo": "github:github/gitignore",
+      "url": null,
+      "star": 3
+    },
+    {
       "name": "nodebestpractices",
       "desc": "The Node.js best practices list",
       "repo": "github:goldbergyoni/nodebestpractices",
