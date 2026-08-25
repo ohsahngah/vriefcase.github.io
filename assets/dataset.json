@@ -14,6 +14,13 @@
       "star": 5
     },
     {
+      "name": "d2coding",
+      "desc": "korean-supporting monospaced font",
+      "repo": "github:vriefcase/d2coding",
+      "url": "https://naver.github.io/d2-coding-font",
+      "star": 5
+    },
+    {
       "name": "gitignore",
       "desc": "collection of useful .gitignore templates",
       "repo": "github:github/gitignore",
@@ -491,10 +498,10 @@
     },
     {
       "name": "pretendard",
-      "desc": "Korea's standard open-source Korean UI font",
-      "repo": "github:orioncactus/pretendard",
+      "desc": "modern korean UI font",
+      "repo": "github:vriefcase/pretendard",
       "url": "https://cactus.tistory.com/306",
-      "star": 0
+      "star": 5
     },
     {
       "name": "JetBrainsMono",
