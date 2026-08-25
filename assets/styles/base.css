@@ -10,6 +10,7 @@
 
     --white: #f2f2f2;
     --cyber: #00ff00;
+    --clover: #0cd664;
 
     /* 사이즈 */
     --container-width: 1600px;
@@ -26,7 +27,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("./fonts/pretendard.woff2") format("woff2");
+  src: url("../fonts/pretendard.woff2") format("woff2");
 }
 
 @font-face {
@@ -34,7 +35,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("./fonts/d2coding-regular.woff2") format("woff2");
+  src: url("../fonts/d2coding-regular.woff2") format("woff2");
 }
 
 @font-face {
@@ -42,7 +43,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("./fonts/d2coding-bold.woff2") format("woff2");
+  src: url("../fonts/d2coding-bold.woff2") format("woff2");
 }
 
 
