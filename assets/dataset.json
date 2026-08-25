@@ -7,6 +7,13 @@
   "star": 5,
   "repos": [
     {
+      "name": "osa",
+      "desc": "zero-dependency web starter for korean",
+      "repo": "github:ohsahngah/osa",
+      "url": null,
+      "star": 5
+    },
+    {
       "name": "gitignore",
       "desc": "collection of useful .gitignore templates",
       "repo": "github:github/gitignore",
@@ -469,13 +476,6 @@
       "star": 3
     },
     {
-      "name": "d2coding",
-      "desc": "Korean-supporting monospaced font for developers by Naver",
-      "repo": "github:ohsahngah/d2coding",
-      "url": "https://naver.github.io/d2-coding-font",
-      "star": 5
-    },
-    {
       "name": "sarasa-gothic",
       "desc": "Iosevka-based CJK(Chinese, Japanese, Korean) monospaced coding font",
       "repo": "github:be5invis/Sarasa-Gothic",
@@ -495,13 +495,6 @@
       "repo": "github:orioncactus/pretendard",
       "url": "https://cactus.tistory.com/306",
       "star": 0
-    },
-    {
-      "name": "plight",
-      "desc": "lightweight reset CSS based on the Pretendard font for Korean websites",
-      "repo": "github:ohsahngah/plight",
-      "url": null,
-      "star": 5
     },
     {
       "name": "JetBrainsMono",
