@@ -469,9 +469,9 @@
       "star": 5
     },
     {
-      "name": "writeme",
-      "desc": "minimalist standard README.md template",
-      "repo": "github:ohsahngah/writeme",
+      "name": "readme",
+      "desc": "standard README.md template",
+      "repo": "github:vriefcase/readme",
       "url": null,
       "star": 4
     },
