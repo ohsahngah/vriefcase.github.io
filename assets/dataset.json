@@ -757,7 +757,7 @@
     },
     {
       "name": "bootstrap",
-      "desc": "popular HTML/CSS/JS responsive web UI framework for responsive",
+      "desc": "popular HTML/CSS/JS responsive web UI framework",
       "repo": "github:twbs/bootstrap",
       "url": "https://getbootstrap.com",
       "star": 5
