@@ -239,7 +239,7 @@
     },
     {
       "name": "tesseract.js",
-      "desc": "pure JavaScript OCR, 100+ languages"",
+      "desc": "pure JavaScript OCR, 100+ languages",
       "repo": "github:naptha/tesseract.js",
       "url": "https://tesseract.projectnaptha.com",
       "star": 5
